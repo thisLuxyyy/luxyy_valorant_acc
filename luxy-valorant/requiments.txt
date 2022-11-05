@@ -1,0 +1,6 @@
+colorama
+socket
+http
+os
+time
+sys
